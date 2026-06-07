@@ -11,10 +11,14 @@
             "id": "a0177085a6c384d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tuto/Bonjour.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Bonjour"
             }
           }
         ]
