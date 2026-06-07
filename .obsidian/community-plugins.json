@@ -1,4 +1,12 @@
 [
   "obsidian-git",
-  "terminal"
+  "terminal",
+  "obsidian-excalidraw-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-icon-folder",
+  "omnisearch",
+  "notebook-navigator",
+  "obsidian-latex-suite",
+  "code-styler",
+  "quick-latex"
 ]
